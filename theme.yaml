@@ -1,0 +1,8 @@
+accent_color: '#2a6f97'
+drop_cap: true
+font: serif
+font_size: 18
+line_height: '2.0'
+paragraph_spacing: '1.4'
+scene_break: line
+text_align: left

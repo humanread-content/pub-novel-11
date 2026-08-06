@@ -1,0 +1,53 @@
+version: 1
+title: 風的信使
+slug: novel-ec2bbd8d-c92349
+summary: 一座只收『思念』的燈塔。海員把想說卻寄不出的話寫在紙上，交給住在燈塔的人；他讓風替他把每一句送到該去的地方。關於等待、漂流與那些永遠無法投遞的字。
+cover_color: '#c86b4a'
+cover_asset: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: zh-Hant
+  primary_genre: literary
+  secondary_genre: null
+  serial_status: completed
+  tags:
+  - 實驗小說
+  - 排版敘事
+  - CSS動畫
+  - 互動敘事
+  - 短篇小說
+  warning_level: none
+translation: null
+chapters:
+- id: 459
+  title: 風的信使（開篇）
+  position: 1
+  file: chapters/0001-459.html
+  format: sandbox-html-css
+- id: 460
+  title: 海與燈塔
+  position: 2
+  file: chapters/0002-460.html
+  format: sandbox-html-css
+- id: 461
+  title: 守燈的人
+  position: 3
+  file: chapters/0003-461.html
+  format: sanitized-html
+- id: 462
+  title: 窗台上的紙箋
+  position: 4
+  file: chapters/0004-462.html
+  format: sandbox-html-css
+- id: 463
+  title: 燈塔的光
+  position: 5
+  file: chapters/0005-463.html
+  format: sandbox-html-css
+- id: 464
+  title: 交給風的話
+  position: 6
+  file: chapters/0006-464.html
+  format: sanitized-html
